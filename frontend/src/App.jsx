@@ -3,7 +3,7 @@ import axios from "axios";
 import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer, Tooltip } from "recharts";
 import "./App.css";
 
-const const API_URL = "https://YOUR-RENDER-URL.onrender.com";
+const API_URL = "https://insightos-plcd.onrender.com/";
 
 function App() {
   const [activeTab, setActiveTab] = useState("dashboard");
