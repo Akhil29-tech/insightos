@@ -1,7 +1,6 @@
 backend/venv/
 backend/.env
 backend/__pycache__/
-backend/chroma_store/
 frontend/node_modules/
 frontend/dist/
 *.pyc
